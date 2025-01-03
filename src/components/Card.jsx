@@ -95,6 +95,30 @@ const Card = () => {
               label="Lovely Be Be"
               path="/services"
             />
+            <CardItem
+              src="images/466673819_1995676684233307_8541792130464363405_n.jpg"
+              text="Explore Be' existence!"
+              label="Lovely Be Be"
+              path="/services"
+            />
+            <CardItem
+              src="images/466673819_1995676684233307_8541792130464363405_n.jpg"
+              text="Explore Be' existence!"
+              label="Lovely Be Be"
+              path="/services"
+            />
+            <CardItem
+              src="images/466673819_1995676684233307_8541792130464363405_n.jpg"
+              text="Explore Be' existence!"
+              label="Lovely Be Be"
+              path="/services"
+            />
+            <CardItem
+              src="images/466673819_1995676684233307_8541792130464363405_n.jpg"
+              text="Explore Be' existence!"
+              label="Lovely Be Be"
+              path="/services"
+            />
           </ul>
         </div>
       </div>
