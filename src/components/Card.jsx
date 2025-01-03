@@ -89,6 +89,12 @@ const Card = () => {
               label="Lovely Be Be"
               path="/services"
             />
+            <CardItem
+              src="https://www.facebook.com/photo?fbid=2026600444474264&set=pcb.2026612171139758"
+              text="Explore Be' existence!"
+              label="Lovely Be Be"
+              path="/services"
+            />
           </ul>
         </div>
       </div>
