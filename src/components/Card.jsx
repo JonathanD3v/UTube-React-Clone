@@ -22,6 +22,9 @@ const Card = () => {
               path="/services"
             />
           </ul>
+
+
+          
           <ul className="cards__items">
             <CardItem
               src="images/6.jpg"
@@ -42,6 +45,10 @@ const Card = () => {
               path="/services"
             />
           </ul>
+
+
+
+          
           <ul className="cards__items">
             <CardItem
               src="images/10.jpg"
@@ -56,6 +63,10 @@ const Card = () => {
               path="/services"
             />
           </ul>
+
+
+
+          
           <ul className="cards__items">
             <CardItem
               src="images/16.jpg"
@@ -76,6 +87,10 @@ const Card = () => {
               path="/services"
             />
           </ul>
+
+
+
+          
           <ul className="cards__items">
             <CardItem
               src="images/4.jpg"
@@ -89,37 +104,12 @@ const Card = () => {
               label="Lovely Be Be"
               path="/services"
             />
-            <CardItem
-              src="images/472006901_2026600451140930_7326184958147721738_n.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
-            <CardItem
-              src="images/466673819_1995676684233307_8541792130464363405_n.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
-            <CardItem
-              src="images/111.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
-            <CardItem
-              src="images/222.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
-            <CardItem
-              src="images/333.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
+            
           </ul>
+
+
+
+          
           <ul className="cards__items"> 
             <CardItem
               src="images/472006901_2026600451140930_7326184958147721738_n.jpg"
@@ -139,19 +129,13 @@ const Card = () => {
               label="Lovely Be Be"
               path="/services"
             />
-            <CardItem
-              src="images/222.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
-            <CardItem
-              src="images/333.jpg"
-              text="Explore Be' existence!"
-              label="Lovely Be Be"
-              path="/services"
-            />
+            
           </ul>
+
+
+
+
+          
           <ul className="cards__items">
             <CardItem
               src="images/222.jpg"
