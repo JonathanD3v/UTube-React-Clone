@@ -90,7 +90,7 @@ const Card = () => {
               path="/services"
             />
             <CardItem
-              src="https://www.facebook.com/photo?fbid=2026600444474264&set=pcb.2026612171139758"
+              src="images/472006901_2026600451140930_7326184958147721738_n.jpg"
               text="Explore Be' existence!"
               label="Lovely Be Be"
               path="/services"
