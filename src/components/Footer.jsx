@@ -63,7 +63,6 @@ function Footer() {
           <div class="footer-logo">
             <Link to="/" className="social-logo">
               BE_BE
-              <i class="fa-solid fa-heart" />
             </Link>
           </div>
           <small class="website-rights">BE_BE © 2020</small>
