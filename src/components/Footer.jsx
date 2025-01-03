@@ -77,7 +77,7 @@ function Footer() {
             </Link>
             <Link
               class="social-icon-link instagram"
-              to="/"
+              to="https://www.instagram.com/sonnie_be?igsh=cXFud3kxY3d5ajY3"
               target="_blank"
               aria-label="Instagram"
             >
